@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RemoteDemoAssets
+  m_EditorClassIdentifier: 
+  m_GroupName: RemoteDemoAssets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 58c7ce435b846094f833b8619daeb350
+  m_SerializeEntries:
+  - m_GUID: 88f5d695a075d8540bf6d5b60db175c5
+    m_Address: cat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - texture
+  - m_GUID: cc7e83fbc27ef6341b6c49a38f195b22
+    m_Address: select
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - audio
+  - m_GUID: ccb96f3d24f9a124db7cc75632c36211
+    m_Address: cube
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+  - m_GUID: 733f9430e6aa9fd40a71d4341e27f680
+    m_Address: shpere
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 048acd6f751689a41b9053bbf472e82f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 22b76021a3d989040aa163af2d5dd6d0, type: 2}
