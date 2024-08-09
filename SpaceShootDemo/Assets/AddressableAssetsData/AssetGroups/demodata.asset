@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: demodata
+  m_EditorClassIdentifier: 
+  m_GroupName: demodata
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c86b6bba5f81f8147b8b4e81b5e0e402
+  m_SerializeEntries:
+  - m_GUID: 7d5f7699d6d1d48e485ac71126e12061
+    m_Address: Done_Asteroid 01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spaceHazards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9143e2b62ad50488482f9b73672fc331
+    m_Address: Done_Asteroid 02
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spaceHazards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 834bfaee90a9d4e04b1e8c1ca22cc88e
+    m_Address: Done_Asteroid 03
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - spaceHazards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11e27c26ac87b40f0a62ec40d7261989
+    m_Address: Done_Bolt-Enemy
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4ec271e525e14ca9927a07e6a2e153d
+    m_Address: Done_Bolt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afc18fc39ade3744397c0c993b57be53
+    m_Address: Done_Enemy Ship
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    - spaceHazards
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 738bdf56857a65f479c367c7b62c4ad7
+    m_Address: Done_Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93bdcaae53f95461785a8eeb8c01bc61
+    m_Address: engines_enemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62ea8a5ca94c546f29ba6dea8f379a7b
+    m_Address: engines_player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6d58f54ce5934781962a4f887e834f3
+    m_Address: explosion_asteroid
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 160925a6fe2664f2a978566b819f0af0
+    m_Address: explosion_enemy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3455fe69f7ddc4604b95bf9b0a1e88d7
+    m_Address: explosion_player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9930946b7c5f48e44aef1e56c2de7315
+    m_Address: StarField
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6cf7ed2faf3b47eb8f72eaa9c1a495a
+    m_Address: SpaceShooter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 048acd6f751689a41b9053bbf472e82f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c79bd1a1e19a81444856b2bf67b2e76e, type: 2}
+    - {fileID: 11400000, guid: 5aaedc9a99778144eb847b998554855a, type: 2}
